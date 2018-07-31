@@ -1,2 +1,2 @@
-# alura-listavip-sprinboot
+# listavip-sprinboot
 Repositório do curso de Spring Boot
